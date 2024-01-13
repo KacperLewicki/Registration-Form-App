@@ -70,14 +70,4 @@ This document provides detailed information about the user registration and logi
 - The logged-in user has access to the application form.
 - Data from the form is sent to the backend and stored in the database.
 
-## Future Developments
 
-### Admin Page
-
-- A panel for managing recruitment data.
-- Functions for managing user accounts and their application data.
-
-### Home Page
-
-- Information about job opportunities and detailed descriptions of positions.
-- News and announcements for candidates.
